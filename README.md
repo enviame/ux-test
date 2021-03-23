@@ -2,7 +2,7 @@
 
 El siguiente desafío, busca conocer más respecto a tus habilidades para mejorar la experiencia de usuario en una funcionalidad básica de la plataforma Envíame.
 
-El desafío consiste en re-diseñar la experiencia del flujo de creación de envío envíos en nuestra web. 
+El desafío consiste en re-diseñar la experiencia del flujo de creación de un envío en nuestra web. 
 
 ### Entregables:
 - Evaluación de usabilidad.
