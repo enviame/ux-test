@@ -27,4 +27,4 @@ Usted dispone de 5 días para completar el desafío.
 *Nos emociona la idea de incorporar a la primera persona de UX a nuestro equipo, sabemos que vendrán muchas mas. 
 En Envíame encontrarás un gran espacio para desarrollar una experiencia extraordinaria.*
 
-#### Te deseamos mucho éxito!
+#### ¡Te deseamos mucho éxito!
