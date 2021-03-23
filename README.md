@@ -18,7 +18,7 @@ El desafío consiste en re-diseñar la experiencia del flujo de creación de env
 > *url:* <http://sandbox.easypoint.co/>  
 > *usr:* <it@enviame.io> 
 > *pass:* Enviame1$ 
-- Si necesita o desea coordinar una entrevista con usuarios internos, escriba a: <tech-test@enviame.io>, indicando opciones de agenda para coordinar reuniones de 10-15 minutos. 
+- Si necesita o desea coordinar entrevista(s) con personas de envíame que son usuarios de la plataforma, escriba a: <tech-test@enviame.io>, indicando opciones de agenda para coordinar reuniones de 10-15 minutos. 
 
 ### Plazo
 Usted dispone de 5 días para completar el desafío. 
